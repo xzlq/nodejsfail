@@ -1,13 +1,13 @@
 {
-  "name": "spybot",
+  "name": "discord bot asdf",
   "version": "0.1.0",
-  "description": "a spybot",
+  "description": "a bot",
   "engines": {
     "node": "6.10.0"
   },
-  "main": "agcnrainbow.js",
+  "main": "botcode.js",
   "scripts": {
-    "start": "node agcnrainbow.js"
+    "start": "node botcode.js"
   },
   "dependencies": {
     "discord.js": "11.0.0",
