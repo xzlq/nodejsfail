@@ -1,0 +1,29 @@
+{
+  "name": "dspytest",
+  "version": "0.1.0",
+  "description": "a spybot",
+  "engines": {
+    "node": "6.9.4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "11.0.0",
+    "ejs": "2.4.1",
+    "express": "4.13.3",
+    "request": "2.79.0",
+    "util": "0.10.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xzlq/nodejstest"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
