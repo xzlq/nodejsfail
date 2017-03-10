@@ -1,1 +1,1 @@
-web: node botcode.js
+web: node index.js
