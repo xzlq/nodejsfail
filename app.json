@@ -1,8 +1,0 @@
-{
-  "name": "dspytest",
-  "description": "a spybot",
-  "repository": "https://github.com/xzlq/nodejstest",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"],
-  "image": "heroku/nodejs"
-}
