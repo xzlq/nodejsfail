@@ -1,4 +1,4 @@
-git commit -a -m "asdf"
+git add .
+git commit -am "asdf"
 git push heroku master
-heroku open
 heroku logs --tail
