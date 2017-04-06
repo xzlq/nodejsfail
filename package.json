@@ -14,7 +14,8 @@
     "ejs": "2.4.1",
     "express": "4.13.3",
     "request": "2.79.0",
-    "util": "0.10.3"
+    "util": "0.10.3",
+    "google-spreadsheet": "2.0.3",
   },
   "repository": {
     "type": "git",
